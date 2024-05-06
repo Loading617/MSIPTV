@@ -1,2 +1,2 @@
 # MS IPTV
-A IPTV Playlist Checker for Android
+MSIPTV (An acornym for MakeSure IPTV) is Playlist Checker for Android
