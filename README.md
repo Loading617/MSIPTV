@@ -1,2 +1,2 @@
 # MakeSure Editor
-MakeSure Editor is a Playlist IPTV Checker for Android
+MakeSure Editor is a IPTV Playlist Checker for Android
